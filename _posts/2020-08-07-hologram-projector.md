@@ -25,15 +25,19 @@ But, just re-projecting a 3D object into a screen doesn't make it a hologram. We
 
 Which reminds me of that old 2002 iMac G4 display which follows your sight or whatever. Yeah, kind of like that but instead of the screen, it's the images inside the screen that 'follows' you.
 
-So how do you build a display like this? Well, financially speaking it's going to be expensive as heck. Reason? A circle has 360 kind of angles, and that's just on one 2D plane. Combine that into a ball to make the perfect, Iron Man movie-grade kind of hologram? I don't know, abundance, you get the idea. To be able to project a 3D object like that... well, it takes a lot. So instead of wasting away thinking about how to create a display like that and revolutionize an entire tech industry, you just simply have to limit the angles. 
+So how do you build a display like this? Well, financially speaking it's going to be expensive as heck. Reason? A circle has 360 kind of angles, and that's just on one 2D plane. Now imagine turning that into a ball to make the perfect, Iron Man movie-grade kind of hologram? I don't know, abundance, you get the idea. So instead of wasting away thinking about how to create a display like that and revolutionize an entire tech industry, we can choose a simpler option: **limit the angles**.
 
-Sucks, yeah, but in this project I mainly want to focus on trying to finish the game side, not trying to create a breakthrough in the fields of computer vision or something, I don't know. So restricting the amount of angles sounds like a good deal for me.
+Sounds like a bailout? Yeah, I guess so. But in this project we mainly want to focus on trying to finish the game side, not trying to create a breakthrough in the fields of computer vision or something, I don't know. So restricting the amount of angles sounds like a good deal for me.
 
-How many angles then? Good question. The answer is: it depends. Depends on what kind of 3D shaped object you can easily recreate. So in my case, I went back and did some Googling on the matter. After two days worth of 24/7 running Chrome with 50-something active tabs on my laptop, I found this [blessed piece of conference paper that just shatters my heart and soul, making my eyes watery with tears of happiness](http://avestia.com/EECSS2016_Proceedings/files/paper/MHCI/109.pdf). I simply read the title, bookmarked it, and slammed my body onto my bed, because I survived on 2 hours of sleep every night ever since this project started.
+How many angles then? Good question. The answer is: it depends. Depends on what kind of 3D shaped object you can easily recreate. So in my case, I went back and did some Googling on the matter. After two days worth of 24/7 running Chrome with 50-something active tabs on my laptop, I found this [blessed piece of conference paper that just shatters my heart and soul, making my eyes watery with tears of happiness](http://avestia.com/EECSS2016_Proceedings/files/paper/MHCI/109.pdf). Spoiler: it's a pyramid (\*X-Files theme song playing in the background\*). I read the title, bookmarked it, and slammed my body onto my bed, because I had been surviving on 3 hours of sleep every night ever since this project started.
 
-So, creating a square-based pyramid shaped object-- \*X-Files theme song playing in the background\* -- is not entirely impossible. It is manageable and not an out-of-this-world concept to begin with. It's solid. But with what material?
+So, creating a square-based pyramid shaped object is not entirely impossible. It is manageable and not an out-of-this-world concept to begin with. It's solid. But with what material?
 
-Coming from what we already know about Integral Imaging, we simply don't need to translate a 3D object into a 2D plane. Any 3D game engine already does that for you. So what we need is a **projector** that will 're-project' those 3D game scenes you see in your screen. Okay great, a projector. I read through more papers before deciding and apparently the best materials are between something glossy and obviously clear-colored (is 'clear' a color (?)). Plexiglass/acrylic is among the most used material in this case. 
+Coming from what we already know about Integral Imaging, we simply don't need to translate a 3D object into a 2D plane. Any 3D game engine already does that for you. So what we need is a **projector** that will 're-project' those 3D game scenes you see in your screen. Okay great, a projector. Let's read through more papers before deciding which materials. 
+
+**\*10 hours later...\***
+
+Apparently the best material is something that's glossy and obviously clear-colored (is 'clear' a color?). Plexiglass/acrylic is among the most used material in this case, apart from actual glass.
 
 ### The Creation and The Result
 
@@ -55,7 +59,6 @@ It still doesn't look like much. This is still a prototype projector in an ongoi
 
 And that wraps up this post. Thank you for sticking out until the end. This is my first blog post of sharing such technical stuff like this. I hope this can inspire(?) or get you started on something which might need this kind of information. See you in another post!
 
----
 <img src="https://media.giphy.com/media/jSuu6dQWhSEQE/source.gif" />
 
 #### Reference and Creds:
