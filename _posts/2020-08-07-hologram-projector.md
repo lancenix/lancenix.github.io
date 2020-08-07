@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use Integral Imaging for Hologram Game"
+title: "Intro to Integral Imaging for Hologram Game"
 date: 2020-08-07 01:00:00
 image: ''
 description: "This is not a Computer Science class, I swear."
@@ -8,7 +8,7 @@ tags:
 - 
 categories:
 - Game Development
-twitter_text: "How to use Integral Imaging for Hologram Game"
+twitter_text: "Intro to Integral Imaging for Hologram Game"
 ---
 
 <img src="https://media.giphy.com/media/3oEhmPyqvHwsGqY9Xi/source.gif"/>
@@ -49,7 +49,7 @@ Credit goes to my friend for creating this model to be used in a thesis we're wr
 
 Each scene shown by each camera will show your game scene so you can project your 3D game scene using the pyramid! If you want to get a transparent background, use black color in your game scene, since black doesn't project any light, it is considered 'transparent'. That's why apart from the scenes, I set the world background color to black.
 
-![](/assets/img/integral-imaging/unity-1.JPEG)
+![](/assets/img/integral-imaging/unity-1.jpeg)
 
 (Excuse my poor screen quality) Make sure they fit really good with each other, so there won't be any gap or distortion on the final result of the projection. So you'll get something like this: *(look mom, I made something cool)*
 
