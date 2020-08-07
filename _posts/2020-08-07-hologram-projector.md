@@ -56,7 +56,7 @@ It still doesn't look like much. This is still a prototype projector in an ongoi
 And that wraps up this post. Thank you for sticking out until the end. This is my first blog post of sharing such technical stuff like this. I hope this can inspire(?) or get you started on something which might need this kind of information. See you in another post!
 
 ---
-<img src="https://media.giphy.com/media/jSuu6dQWhSEQE/source.gif />
+<img src="https://media.giphy.com/media/jSuu6dQWhSEQE/source.gif" />
 
 #### Reference and Creds:
 - [Integral Imaging by Wikipedia](https://en.wikipedia.org/wiki/Integral_imaging)
