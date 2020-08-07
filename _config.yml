@@ -64,7 +64,7 @@ projects:
     url: https://github.com/lancenix/spikap
   - name: \game\ pararoom → finished
     url: https://github.com/lancenix/Pararoom
-    - name: \game\ senterin → finished
+  - name: \game\ senterin → finished
     url: https://github.com/lancenix/Delivery-Guy-Godot
 
 # exclude my node related stuff
