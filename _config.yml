@@ -56,11 +56,13 @@ links:
 
 # projects in header index
 projects:
+  - name: \nlp\ contextual chatbot → ongoing
+    url: https://github.com/lancenix/contextual-chatbot
   - name: \game\ holoreact → ongoing
     url: https://github.com/lancenix/Holoreact
   - name: \computer vision\ pictify → ongoing
     url: https://gitlab.com/maiesey/pictify
-  - name: \ios\ spikap → ongoing
+  - name: \ios\ spikap → finished
     url: https://github.com/lancenix/spikap
   - name: \game\ pararoom → finished
     url: https://github.com/lancenix/Pararoom
